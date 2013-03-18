@@ -1,6 +1,4 @@
-# Sketching Better Experiences
+# Seedhack Retail
 ## By Devin Hunt (@hailpixel)
 
-Hey. Sketching is good! So.. you know, do it?
-
-Built on deck.js. If you republish this, please provide attribution! 
+Built with deck.js. Check it out at http://devinhunt.github.com/talk-seedhack-retail/
